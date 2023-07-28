@@ -12,7 +12,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd password generator
+  cd password_generator
 ```
 
 Run the script
